@@ -71,7 +71,7 @@ The *Generate-RIR* button will generate the RIR, which by default will be stored
 
 
 #### Generate multi-channel audio from the stored RIR 
-To generate multi-channel audio from the generated RIR, browse the stored RIR file(stored in .mat format). Choose the required number of source files from any desired folder. After all the source files are choosen, *Generate-multi channel audio* button will be enabled. This will generate the multi-channel audio and will be stored at *multi_audio* folder bu default.
+To generate multi-channel audio from the generated RIR, browse the stored RIR file(stored in .mat format). Choose the required number of source files from any desired folder. After all the source files are chosen, *Generate-multi channel audio* button will be enabled. This will generate the multi-channel audio and will be stored at *multi_audio* folder by default.
 
 ###
 Alternatively, to Generate the RIR from command line without running the GUI, using:
