@@ -40,6 +40,7 @@ To use GUI to generate RIR run:
 ```
 python gui.py 1
 ```
+![GUI for RIR/Audio generation](https://github.com/iitbdaplab/multi-channel_audio_simulator/blob/master/images/gui1.png)
 ### Description of the GUI
 
 This interface can do **two** tasks : 
