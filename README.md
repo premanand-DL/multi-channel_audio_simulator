@@ -24,11 +24,11 @@ pip install pyqt5
 
 Clone the repository to any directory with:
 ```
-$ git clone ...
+$ git clone https://github.com/iitbdaplab/multi-channel_audio_simulator
 ```
 and change to the repository folder with
 ```
-$ cd ....
+$ cd multi-channel_audio_simulator
 ```
 You need to compile rir_generator.cpp to mex file supported by octave with :
 ```
