@@ -104,6 +104,9 @@ To generate multi-channel audio from the generated RIR, browse the stored RIR fi
 
 ### Authors
 
-* **Sachin Nayak **--Feel free to contact me at sachin.ee@iitb.ac.in for any issues 
+* **Sachin Nayak ** --Feel free to contact me at sachin.ee@iitb.ac.in for any issues
+
+### Contribution
+* J.B. Allen and D.A. Berkley, "Image method for efficiently simulating small-room acoustics," Journal Acoustic Society of America, 65(4), April 1979, p 943.
 
 
