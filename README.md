@@ -82,7 +82,7 @@ python gui.py 0 --a_type l --num_c 4 --num_s 2 --center 2 1.5 1 –radius 5 --sp
 ```
 Here, the choices of the arguments are as follows:
 ```
-__Description__     : **Arguments** : **Values**
+**Description**     : **Arguments** : **Values**
 Array type            a_type          ‘l’,’c’ 
 No. of channels       num_c           2-8
 No. of Speakers       num_s           2-5
