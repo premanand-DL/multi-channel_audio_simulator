@@ -33,7 +33,7 @@ for i=1:num_spk
 end
 
 center = r(1,:);
-save('-mat',['rir_' num2str(num_spk) '_' num2str(num_chn) '_' num2str(t60) '.mat'],'rir','num_spk','num_chn','L','t60','fs','rooms','arr_type','s','orders','center')
+save('-mat',['rirs/rir_' num2str(num_spk) '_' num2str(num_chn) '_' num2str(t60) '.mat'],'rir','num_spk','num_chn','L','t60','fs','rooms','arr_type','s','orders','center')
 %%
 %fileid = fopen('spkid');
 %fileids = textscan(fileid,'%d16');
