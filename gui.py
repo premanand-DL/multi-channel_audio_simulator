@@ -1100,7 +1100,7 @@ class Ui_MainWindow(object):
         self.uis.setupUi(self.w)
         self.w.show()
         global no_chn,no_spk,T60,fs,center,types,room,angles,pos,reflec,dim
-        uis.show()
+        #uis.show()
         #sys.exit(apps.exec_())
 #####################################################################################################################
 def get_angle(x,y,a,b):
